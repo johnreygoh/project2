@@ -50,7 +50,7 @@ public class Application1 {
 	private void initialize() {
 		frmApplication = new JFrame();
 		frmApplication.setExtendedState(Frame.MAXIMIZED_BOTH);
-		frmApplication.setTitle("Application 1");
+		frmApplication.setTitle("New Application");
 		frmApplication.setBounds(100, 100, 500, 297);
 		frmApplication.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmApplication.getContentPane().setLayout(null);

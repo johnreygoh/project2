@@ -26,6 +26,10 @@ public class Practice2 extends JInternalFrame {
 	 * Create the frame.
 	 */
 	public Practice2() {
+		setClosable(true);
+		setIconifiable(true);
+		setMaximizable(true);
+		setTitle("Practice 2");
 		setBounds(100, 100, 450, 300);
 
 	}
